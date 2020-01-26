@@ -1,2 +1,1 @@
-# mapr_spark
-MapR DEV360
+# Spark learning and contributions
